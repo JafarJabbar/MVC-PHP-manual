@@ -1,0 +1,34 @@
+<?php
+
+$settings["title"]="Jafar Jabbarli | Personal website";
+$settings["description"]="My name and surname  is Jafar Jabbarli. I was born in Baku 1996. I was graduated ASOIU 'Computer science'. I'm a junior web developer.";
+$settings["keywords"]="Jafar,Jabbarli,web developer, junior web developer,freelancer,upwork,asoiu,adnsu,baku";
+$settings["theme"]="udemy-v1";
+$settings["blog_title"]="Blog";
+$settings["blog_description"]="";
+$settings["blog_search_title"]="Blog";
+$settings["maintance_mode"]="2";
+$settings["maintance_mode_title"]="Yeniden qurulma...";
+$settings["maintance_mode_description"]="Sayt Yeniden qurulur ...";
+$settings["logo"]="JafarJabbarli.net";
+$settings["search_placeholder"]="Bloglarda axtar...";
+$settings["welcome_title"]="Web səhifəmə xoş gəldiniz ! :)";
+$settings["welcome_text"]="Bu səhifə Jafar Jabbarli dnin Şəxsi səhifəsidir...";
+$settings["about"]="My name and surname  is Jafar Jabbarli. I was born in Baku 1996. I was graduated ASOIU 'Computer science'. I'm a junior web developer.";
+$settings["facebook"]="https://www.facebook.com/jafar.jabbarli.3";
+$settings["stackoverflow"]="https://stackoverflow.com/users/7431942/djeff-c";
+$settings["github"]="https://github.com/Djeff777";
+$settings["linkedin"]="https://www.linkedin.com/in/ceff-cabbarli-930222139/";
+$settings["smtp_host"]="smtp.gmail.com";
+$settings["smtp_mail"]="jabbarlijafar@gmail.com";
+$settings["smtp_password"]="123321abcABC";
+$settings["smtp_secure"]="tls";
+$settings["smtp_port"]="587";
+$settings["smtp_sender_email"]="jabbarlijafar@gmail.com";
+$settings["smtp_sender_name"]="Jafar Jabbarli";
+$settings["guest_comment"]="1";
+$settings["user_comment"]="1";
+$settings["blog_pagination"]="1";
+$settings["blog_search_pagination"]="1";
+$settings["blog_category_pagination"]="1";
+$settings["blog_tag_pagination"]="1";

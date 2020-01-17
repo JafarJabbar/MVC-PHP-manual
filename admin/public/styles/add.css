@@ -1,0 +1,50 @@
+.tab-list {
+    background: #fff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .15);
+    overflow: hidden;
+}
+.tab-list li {
+    float: left;
+    padding: 0 20px;
+    line-height: 50px;
+    font-weight:600;
+}
+
+.tab-container{
+    margin-top:20px;
+}
+.tab-list .active{
+    box-shadow: 0 4px 0 0 #00a0d2 inset;
+    transition: .5s;
+}
+.tab{
+    background: white;
+}
+.tab-container{
+    padding: 20px;
+}
+.filter {
+    background: #fff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .15);
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+.filter ul li{
+    float: left;
+    padding: 0 20px;
+    font-weight:600;
+}
+
+
+
+.filter ul li a{
+    display: block;
+    color: #0e0e0e;
+    float: left;
+    padding: 0 5px;
+    line-height: 50px;
+}
+.filter ul li.active{
+    box-shadow: 0 4px 0 0 #00a0d2 inset;
+}
